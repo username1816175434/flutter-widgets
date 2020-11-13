@@ -10,5 +10,6 @@ dependencies:
   flutter:
     sdk: flutter
   intl: ">=0.15.0 <0.17.0"
+  syncfusion_flutter_core: ^18.3.48
  # syncfusion_flutter_core:
  #  path: ../syncfusion_flutter_core
